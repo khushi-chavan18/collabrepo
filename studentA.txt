@@ -1,2 +1,4 @@
 We are working on a project
 studentA created a file
+updating this file 
+we are learning git
